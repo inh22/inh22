@@ -1,6 +1,6 @@
 <div align=center>
   
-  <img src="images/doggy.gif">
+  ![doggy](https://github.com/inh22/inh22/assets/112490245/bb69fa18-7cee-4857-b0ba-d4466e928b94)
   
   ### 소개   
   보안을 공부하고 있는 대학생입니다.
@@ -16,4 +16,5 @@
 
   ### 💻 배운 프로그래밍 언어 💻   
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
- </div>
+
+</div>
