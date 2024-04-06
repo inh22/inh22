@@ -7,10 +7,7 @@
   생년월일: 2003.10.07   
   
   ### 소개   
-  보안을 공부하고 있는 대학생입니다.   
- 
-  #### 📱 SNS 📱
-  <a href="instagram.com/yuinheee/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  보안을 공부하고 있는 대학생입니다.
 
   #### 📋 이력 📋   
   이화여자대학교 사이버보안전공 재학 (2022.03~)   
